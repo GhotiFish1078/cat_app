@@ -1,0 +1,23 @@
+{
+  "name": "cat_loader",
+  "version": "1.0.0",
+  "description": "cat project",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "cat_loader"
+  },
+  "keywords": [
+    "cat",
+    "loader"
+  ],
+  "author": "l t",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^33.2.1"
+  }
+}
+
